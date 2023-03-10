@@ -1,1 +1,3 @@
 premiere modif sur ex1
+
+la ligne de merge
