@@ -1,2 +1,7 @@
 premiere modif sur ex1
+<<<<<<< HEAD
 1 er modif sur ex1
+=======
+
+la ligne de merge
+>>>>>>> branch1
